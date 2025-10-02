@@ -57,7 +57,7 @@ I’m a tech enthusiast navigating the maze of **data** and **apps**—constantl
 ## 📫 Connect with Me
 
 - [Twitter: @manojnambyar](https://twitter.com/manojnambyar)
-- [LinkedIn: Manoj Kumar Bavakad](https://www.linkedin.com/in/manoj-kumar-bavakad)
+- [LinkedIn: Manoj Kumar Bavakad](https://www.linkedin.com/in/manojkumarbavakad)
 
 ---
 
