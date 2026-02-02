@@ -15,8 +15,11 @@ I’m a tech enthusiast navigating the maze of **data** and **apps**—constantl
 
 ## 🛠️ Skills
 
+- **Busines Management** (Bullion and Food business Operations, finance, HR and production)
+- **Trading** (Fundamental and technical analysis, Option & Futures strategies, Market execution)
+- **Finance** (Trade finance and Forex operations, cost saving and optimisation specialisation)
 - **Excel** (power formulas & automation)
-- **Python** (data wrangling, scripting)
+- **Python** (data wrangling, automation scripting, visualisation)
 - **SQL** (data extraction & reporting)
 - **Google Apps Script** (workflow automation)
 - **Flutter** & **Supabase** (building modern apps)
