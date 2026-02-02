@@ -41,6 +41,7 @@ I’m a tech enthusiast navigating the maze of **data** and **apps**—constantl
 ## 🌱 Currently Learning
 
 - Modern app development (Flutter, Supabase)
+- Python data cleaning and office automation
 - Advanced spreadsheet automation
 - Coding best practices
 
